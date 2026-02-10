@@ -1,5 +1,5 @@
 # Walli 🌊
-**vibe coded with opus 4.6!!! **
+
 **Walli** is a modern, native macOS application that brings your desktop to life with video wallpapers. It supports playlists, multi-monitor setups, and seamless lock screen integration via a companion screen saver.
 
 ## ✨ Features
